@@ -1,0 +1,10 @@
+# Campaign — Telegram promotion tool
+
+sessions/
+campaign.db
+*.log
+*.txt
+join_map.json
+__pycache__/
+*.pyc
+.env
